@@ -1,0 +1,19 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "nama": "iqbal",
+      "title": "belajar react"
+    },
+    {
+      "nama": "Muhammad Iqbal Rizan",
+      "title": "belajar nyetir",
+      "id": 6
+    },
+    {
+      "nama": "test",
+      "title": "ahah",
+      "id": 7
+    }
+  ]
+}
